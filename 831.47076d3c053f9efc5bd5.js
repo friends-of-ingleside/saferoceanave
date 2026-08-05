@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksaferoceanave=self.webpackChunksaferoceanave||[]).push([[831],{831(e,n,t){t.r(n),t.d(n,{default:()=>c});var a=t(540),l=t(347);function c(){const{pathname:e}=(0,l.zy)();return a.createElement(a.Fragment,null,a.createElement("h1",null,"404 - Not Found"),a.createElement("p",null,"The location"," ",a.createElement("code",null,e)," ","does not exist."))}}}]);
+//# sourceMappingURL=831.47076d3c053f9efc5bd5.js.map
