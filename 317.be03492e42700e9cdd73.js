@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksaferoceanave=self.webpackChunksaferoceanave||[]).push([[317],{317(e,n,t){t.r(n),t.d(n,{default:()=>a}),t.dn(a);var r=t(540);function a({ref:e=null}){return r.createElement("div",{ref:e,className:"markdown",dangerouslySetInnerHTML:{__html:'<meta http-equiv="refresh" content="0;url=https://actionnetwork.org/letters/finish-the-red-transit-only-lanes-on-ocean" />\n'}})}}}]);
+//# sourceMappingURL=317.be03492e42700e9cdd73.js.map
